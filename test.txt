@@ -2,3 +2,4 @@ hello git!
 Edit test
 edit 2
 edit 3
+git diff test
